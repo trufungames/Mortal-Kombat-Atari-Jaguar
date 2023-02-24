@@ -448,7 +448,7 @@ BMP_RAIDEN_L3:				incbin	"../DATAFILE/GFX/raiden_l3.tga"						; animated object 
 
 music:						incbin	"../DATAFILE/AUDIO/mortal_kombat_title.MOD"						; Music file from Mortal Kombat
 							.dphrase
-select_sam:					incbin	"../DATAFILE/AUDIO/select.RAW"
+select_sam:					incbin	"../DATAFILE/AUDIO/select2.RAW"
 select_end:					.dphrase
 johnnycage_sam:				incbin	"../DATAFILE/AUDIO/johnnycage.RAW"
 johnnycage_end:				.dphrase
